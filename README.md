@@ -15,7 +15,7 @@ Use the interactive installer to set up a new instance in minutes.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yamenzk/FrappeDev.git my-frappe-app
+git clone https://github.com/yamenzak/FrappeDev.git my-frappe-app
 
 # 2. Enter the directory and make the installer executable
 cd my-frappe-app && chmod +x install.sh
